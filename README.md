@@ -1,7 +1,6 @@
 # Housing-Market-Visualization
 
-I developed a Power BI housing market dashboard showcasing the full data analytics process, from data preprocessing and cleaning to data visualization and insight generation.
-
+I developed a Power BI housing market dashboard analyzing U.S. housing trends and affordability. The project involved data preprocessing, cleaning, data modeling, visualization, and insight generation to evaluate how economic conditions have influenced the housing market over time.
 # Background Overview:
 
 The U.S. housing market is a significant indicator of overall economic health and plays an important role in household wealth and financial stability. In recent years, housing affordability has become an increasingly important issue for many Americans, particularly younger generations seeking homeownership. Rising home prices, changing mortgage rates, inflation, and shifts in household income have all contributed to evolving housing market conditions across the country. This project analyzes housing market trends from 2014 to 2026 using Zillow housing data and economic indicators from FRED. By examining metrics such as home prices, sales activity, affordability, mortgage rates, unemployment, and income levels, the dashboard aims to provide insight into how economic conditions have influenced the housing market over time and what economic levers may be most important for making homeownership more attainable in the future.
